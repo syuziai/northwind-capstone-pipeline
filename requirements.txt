@@ -1,0 +1,9 @@
+pandas
+requests
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
+scipy
+matplotlib
+jupyter
